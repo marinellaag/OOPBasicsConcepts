@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="OOPBasicsConcepts.Backend/OOPBasicsConcepts.Backend.csproj" />
+  <Project Path="OOPBasicsConcepts.Frontend/OOPBasicsConcepts.Frontend.csproj" />
+</Solution>
